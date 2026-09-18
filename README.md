@@ -1,15 +1,15 @@
 # Hey, I'm Pranay 👋
 
-**Technology leader, product builder and hands-on engineer.**
+**Product builder and hands-on engineer.**
 
-I turn messy, ambitious ideas into useful software — from product strategy and architecture through to writing the code and getting it into people's hands. Through [Big White Dog](https://www.bigwhitedog.dev/), I work across product, engineering, AI and growth.
+Through [Big White Dog](https://www.bigwhitedog.dev/), I work across product, engineering, AI and growth.
 
-I've led engineering teams and designed large-scale insurance quotation engines; if you've bought motor, home or commercial insurance in the UK, there's a reasonable chance you've interacted with technology I helped build or design.
+I've led engineering teams and designed insurance quotation engines; if you've bought motor, home or commercial insurance in the UK, there's a reasonable chance you've interacted with technology I helped build or design.
 
 ## What keeps me busy
 
-- 🛠️ **Product engineering** — commerce, booking systems and content platforms, from the first sketch to the bits that keep them running.
-- 🤖 **AI & agents** — automated workflows and agentic development, with clear goals, human judgement and proper checks.
+- 🛠️ **Product engineering** — commerce, booking systems and content platforms.
+- 🤖 **AI & agents** — automated workflows and agentic development.
 - 📈 **Growth & creative** — advertising, content and analytics. I care about what happens after launch, too.
 
 I also run **[Papernaut](https://bsky.app/profile/ukpolitics.papernaut.co)**, an automated UK politics news feed with a traceable editorial pipeline.
