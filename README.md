@@ -24,8 +24,6 @@ Earlier still, during the 2011 Libyan civil war, my father was among roughly 16,
 
 I also run **[Papernaut](https://bsky.app/profile/ukpolitics.papernaut.co)**: an automated UK politics news feed that finds, groups and publishes stories, with a traceable editorial pipeline.
 
-I also run **[Papernaut](https://bsky.app/profile/ukpolitics.papernaut.co)**: an automated UK politics news feed that finds, groups and publishes stories, with a traceable editorial pipeline.
-
 ## A few things you can poke around
 
 Most of my work lives in private repos. Here's a little of the public side:
