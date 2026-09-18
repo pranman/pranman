@@ -31,7 +31,7 @@ I've also spent part of my career applying technology to politics and social cau
 
 After the Brexit referendum I became CTO at **Best for Britain**, leading digital campaigning and building **GetVoting.org**, which was used by more than **4.5 million people** in the six weeks before the 2019 general election.
 
-In 2015, my partner and I built **[Refugee Maps](https://refugeemaps.org/)** to help refugees travelling through Europe find aid and avoid hazards such as landmines. It was covered by **[Slate](https://slate.com/technology/2015/09/mapping-technology-is-helping-the-european-refugees-avoid-land-mines-and-find-aid.html)** and **[The Guardian](https://www.theguardian.com/world/2015/sep/09/are-you-organising-an-event-supporting-refugees)**.
+In 2015, my partner and I built **[Refugee Maps](https://refugeemaps.org/)** to help in the refugee crisis. It was covered by **[Slate](https://slate.com/technology/2015/09/mapping-technology-is-helping-the-european-refugees-avoid-land-mines-and-find-aid.html)** and **[The Guardian](https://www.theguardian.com/world/2015/sep/09/are-you-organising-an-event-supporting-refugees)**.
 
 And during the 2011 Libyan civil war, when my father was among thousands of Indians stranded in Libya, I launched an evacuation campaign that helped trigger the Indian government's response and **[Operation Safe Homecoming](https://en.wikipedia.org/wiki/Operation_Safe_Homecoming)**.
 
