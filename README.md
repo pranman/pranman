@@ -4,7 +4,7 @@
 
 I turn messy, ambitious ideas into useful software — from product strategy and architecture through to writing the code and getting it into people's hands. Through [Big White Dog](https://www.bigwhitedog.dev/), I work across product, engineering, AI and growth.
 
-I've led engineering teams and designed large-scale insurance platforms; if you've bought motor, home or commercial insurance in the UK, there's a reasonable chance you've interacted with technology I helped build or design.
+I've led engineering teams and designed large-scale insurance quotation engines; if you've bought motor, home or commercial insurance in the UK, there's a reasonable chance you've interacted with technology I helped build or design.
 
 #### Politics & social impact
 
