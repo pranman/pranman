@@ -27,7 +27,7 @@ Most of my work lives in private repos. Here's a little of the public side:
 
 ## Papers & notes
 
-I also write mathematical notes as an independent researcher.
+I also write mathematical notes as an independent researcher. Will add my scientific notes over time.
 
 - **[A rectangle interpretation of Vieta jumping for IMO 1988 Problem 6](https://github.com/pranman/imo-1988-6-geometric-proof)** (2026) — An expository note illustrating the classical descent with rectangle areas, with a complete proof, diagrams, and reproducible arithmetic checks. [Read the paper (PDF)](https://github.com/pranman/imo-1988-6-geometric-proof/blob/main/proof.pdf).
 
