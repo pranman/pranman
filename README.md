@@ -25,6 +25,12 @@ Most of my work lives in private repos. Here's a little of the public side:
 | [**Armadillo**](https://github.com/pranman/Armadillo) | Audio-to-subtitle tooling with Whisper and faster-whisper. |
 | [**GPetite**](https://github.com/pranman/GPetite) | A tiny GPT-style model, trained from scratch. |
 
+## Papers & notes
+
+I also write mathematical notes as an independent researcher.
+
+- **[A rectangle interpretation of Vieta jumping for IMO 1988 Problem 6](https://github.com/pranman/imo-1988-6-geometric-proof)** (2026) — An expository note illustrating the classical descent with rectangle areas, with a complete proof, diagrams, and reproducible arithmetic checks. [Read the paper (PDF)](https://github.com/pranman/imo-1988-6-geometric-proof/blob/main/proof.pdf).
+
 ## Politics & social impact
 
 I've also spent part of my career applying technology to politics and social causes.
