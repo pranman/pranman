@@ -31,6 +31,8 @@ Most of my work lives in private repos. Here's a little of the public side:
 
 I also write mathematical notes as an independent researcher. Will add my scientific notes over time.
 
+- **[A Geometric Characterisation of Prime Numbers Using Regular Polygons and Digons](https://github.com/pranman/prime-geometric-characterisation)** (2026) — An expository geometric reformulation of divisibility using regular polygons and out-and-back digons, showing how representation counts distinguish 1, primes and composites. [Read the paper (PDF)](https://github.com/pranman/prime-geometric-characterisation/blob/main/paper/prime-geometric-characterisation.pdf).
+
 - **[A rectangle interpretation of Vieta jumping for IMO 1988 Problem 6](https://github.com/pranman/imo-1988-6-geometric-proof)** (2026) — An expository note illustrating the classical descent with rectangle areas, with a complete proof, diagrams, and reproducible arithmetic checks. [Read the paper (PDF)](https://github.com/pranman/imo-1988-6-geometric-proof/blob/main/proof.pdf).
 
 ## Politics & social impact
