@@ -2,6 +2,12 @@
 
 **Product builder and hands-on engineer.**
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Wagtail](https://img.shields.io/badge/Wagtail-43B1B0?style=flat&logo=wagtail&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+
 Through [Big White Dog](https://www.bigwhitedog.dev/), I work across product, engineering, AI and growth.
 
 I've led engineering teams and designed insurance quotation engines; if you've bought motor, home or commercial insurance in the UK, there's a reasonable chance you've interacted with technology I helped build or design.
@@ -45,11 +51,6 @@ In 2015, my partner and I built **[Refugee Maps](https://refugeemaps.org/)** to 
 
 And during the 2011 Libyan civil war, when my father was among thousands of Indians stranded in Libya, I launched an evacuation campaign that helped trigger the Indian government's response and **[Operation Safe Homecoming](https://en.wikipedia.org/wiki/Operation_Safe_Homecoming)**.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![Wagtail](https://img.shields.io/badge/Wagtail-43B1B0?style=flat&logo=wagtail&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 
 ---
 
