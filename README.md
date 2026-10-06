@@ -53,4 +53,3 @@ And during the 2011 Libyan civil war, when my father was among thousands of Indi
 
 ---
 
-[Big White Dog ↗](https://www.bigwhitedog.dev/) · [LinkedIn](https://www.linkedin.com/in/pranay/) · [Bluesky](https://bsky.app/profile/pranman.com) · [Instagram](https://www.instagram.com/pran_man/)
