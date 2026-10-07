@@ -28,10 +28,10 @@ Most of my work lives in private repos. Here's a little of the public side:
 
 | Project | The idea |
 | :--- | :--- |
-| [**Postcode Signals**](https://github.com/pranman/postcode-signals) | Turning housing data into explainable geographic signals. [A look at the agentic build →](https://github.com/pranman/postcode-signals/blob/main/docs/agentic-development.md) |
+| [**Postcode Signals**](https://github.com/pranman/postcode-signals) | Pockets of relative affluence, using housing data [Agentic build →](https://github.com/pranman/postcode-signals/blob/main/docs/agentic-development.md) |
 | [**Django + Tailwind CSS + daisyUI Starter Template**](https://github.com/pranman/django-tailwind-daisyui-template) | A Django starter template with Tailwind CSS, daisyUI components, one-command setup, and a tested development workflow. |
 | [**Armadillo**](https://github.com/pranman/Armadillo) | Audio-to-subtitle tooling with Whisper and faster-whisper. |
-| [**GPetite**](https://github.com/pranman/GPetite) | A tiny GPT-style model, trained from scratch. |
+| [**GPetite**](https://github.com/pranman/GPetite) | A tiny GPT-style model |
 
 ## Papers & notes
 
