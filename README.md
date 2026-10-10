@@ -12,7 +12,7 @@ Through [Big White Dog](https://www.bigwhitedog.dev/), I work across product, en
 
 I've led engineering teams and designed insurance quotation engines; if you've bought motor, home or commercial insurance in the UK, there's a reasonable chance you've interacted with technology I helped build or design.
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=pranman&cache=2026-10-09-22)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=pranman&cache=2026-10-10-05)](https://git.io/streak-stats)
 
 ## What keeps me busy
 
